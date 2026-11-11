@@ -10,4 +10,4 @@ This repository only contains the architecture summary, methodology, and overall
 
 **⚠️[Project summary (Pdf)](docs/project-summary.pdf): Detailed approach, dataset information, and results are provided in this PDF.**
 
-**Keywords:** Computer Vision, Machine Learning, K-Nearest Neighbors (KNN), Image Classification, Feature Extraction, Histogram of Oriented Gradients (HOG), Color Features, Feature-Based Classification, Python.
+**Keywords:** Python, Color Features, Computer Vision, Feature-Based Classification, Feature Extraction, Histogram of Oriented Gradients (HOG), Image Classification, K-Nearest Neighbors (KNN), Machine Learning.
